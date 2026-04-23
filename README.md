@@ -1,8 +1,8 @@
 
 ### Olá! Eu sou a Balbinox👋
 
-![Balbinox GitHub stats](https://github-readme-stats.vercel.app/api?username=seu_username&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Balbinox&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+![Balbinox GitHub stats](https://github-readme-stats.vercel.app/api?username=emilybalbinox&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emilybalbinox&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Tecnologias que eu uso no meu dia
 
